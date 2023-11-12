@@ -20,10 +20,7 @@ export default class HeaderNav extends Component {
             >
               <span class="navbar-toggler-icon"></span>
             </button>
-            <div
-              class="collapse navbar-collapse flex-grow-0"
-              id="navbarNavAltMarkup"
-            >
+            <div class="collapse navbar-collapse flex-grow-0" id="navbarNav">
               <div class="navbar-nav ">
                 <a
                   class=" nav-link active text-white"
